@@ -1,5 +1,4 @@
-# Pong
-2-player arcade game
+# Pong (2-player arcade game)
 -------------------------------------------------------------------------------------------------------
 By Pythonian Prince
 
