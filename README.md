@@ -3,13 +3,13 @@
 ## By Pythonian Prince
 Player 1 Keybinds:
 
-Up = "W"
+Up = "W",
 Down = "S"
 
 
 Player 2 Keybinds:
 
-Up = "Up Arrow"
+Up = "Up Arrow",
 Down = "Down Arrow"
 
 ## Contents:
