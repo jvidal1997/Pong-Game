@@ -1,6 +1,5 @@
 # Pong (2-player arcade game)
-By Pythonian Prince
--------------------------------------------------------------------------------------------------------
+## By Pythonian Prince
 Player 1 Keybinds:
 
 Up = "W"
