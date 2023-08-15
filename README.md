@@ -11,3 +11,7 @@ Player 2 Keybinds:
 
 Up = "Up Arrow"
 Down = "Down Arrow"
+
+## Contents:
+- Executable file (Download to play)
+- Program file (Download to edit the game)
